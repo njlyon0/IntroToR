@@ -1,5 +1,7 @@
 #Intro to R
 
+#testings 
+
 # Resources
 #http://egret.psychol.cam.ac.uk/statistics/R/basicstats.html
 #http://www.statmethods.net/stats/frequencies.html
